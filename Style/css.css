@@ -7,7 +7,7 @@ body{
 
 .main{
     background-color:#fff;
-    height: 388px;
+    height: 364px;
     width: 266px;
     display: inline-block;
     border-radius: 10px;
@@ -64,22 +64,6 @@ body{
    padding-left: 10PX;
    color: #858282;
 }
-
-
-.earn span{
-    background-color:#6E2594;
-    border-radius: 0 15px 15px 0;
-    color: #fff;
-    line-height: 24px;
-    text-align: center;
-    font-size: 13px;
-    margin-top: 0px;
-    width: 110px;
-    height: 25px;
-    display: inline-block;
-}
-
-
 
 
 
